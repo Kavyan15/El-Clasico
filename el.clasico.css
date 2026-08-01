@@ -1,0 +1,22 @@
+#RealMadrid{
+    float: right;
+    margin: 10px;
+    margin-bottom: 10px;
+}
+
+#Barcelona{
+    float: right;
+    margin: 10px;
+}
+
+body{
+    background-color: floralwhite;
+    color: black;
+}
+
+header{
+    color: black;
+    text-decoration: underline;
+}
+
+
